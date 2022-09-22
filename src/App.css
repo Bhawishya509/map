@@ -1,0 +1,16 @@
+.des
+{
+    height: 6vh !important;
+    overflow-y: scroll;
+    
+}
+.des::-webkit-scrollbar {
+    width: 2px;
+    border-radius: 2px;
+    background-color: #2385d6;
+  }
+  .des::-webkit-scrollbar-thumb {
+    height: 4px;
+    border-radius: 6px;
+    background-color: rgb(12, 222, 152);
+  }
